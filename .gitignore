@@ -1,0 +1,6 @@
+build/
+node_modules/
+src/server/data/schema.json
+src/server/data/schema.graphql
+*.iml
+.idea
